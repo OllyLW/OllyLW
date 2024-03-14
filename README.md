@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Oliver and I am currently undertaking a Skills Bootcamp in Software Engineering. 
+
+I qualified with an undergraduate degree in Law and, having worked in the sector post graduation, have decided to change career path into the world of tech!
+
+I have always been passionate about technology and the advancements which are constantly taking place so I am very excited to embark upon a career in the tech sector. 
+
 <!--
 **OllyLW/OllyLW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
